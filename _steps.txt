@@ -1,0 +1,4 @@
+1. products name
+2. price
+3. pic url
+4. products quantity
